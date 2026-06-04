@@ -46,11 +46,11 @@ Chatbot: Goodbye!
 
 ## Future Improvements
 
-Add more intents and responses
-Support multiple responses per intent
-Implement sentiment detection
-Integrate Natural Language Processing (NLP)
-Build a graphical user interface
+* Add more intents and responses
+* Support multiple responses per intent
+* Implement sentiment detection
+* Integrate Natural Language Processing (NLP)
+* Build a graphical user interface
 
 ## Author
 
