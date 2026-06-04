@@ -47,6 +47,20 @@ Weighted F1 Score	93.27%
 Best Accuracy Observed During K Testing: 96.67%
 
 ---
+## Visualizations
+**Class Distribution**
+
+![Class Distribution](images/class_distribution.png)
+
+**Confusion Matrix**
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+**Accuracy vs K Value**
+
+![Accuracy vs K](images/accuracy_vs_k.png)
+
+---
 
 ## Author
 
