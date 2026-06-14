@@ -46,7 +46,7 @@ The project satisfies the following requirements:
 
 OCR-Recognition-Project/
 
-dataset/
+data/
 
 output/
 
@@ -62,7 +62,7 @@ preprocess.py
 
 ocr_engine.py
 
-confidence.py
+confindence.py
 
 visualize.py
 
