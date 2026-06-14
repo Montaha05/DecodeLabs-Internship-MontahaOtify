@@ -238,5 +238,5 @@ python gradio_app.py
 
 ## Author
 
-Your Name
-AI Internship Project
+Montaha Otify
+AI Intern at DecodeLaps
