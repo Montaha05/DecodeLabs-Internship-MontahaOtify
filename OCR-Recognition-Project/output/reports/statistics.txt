@@ -1,0 +1,5 @@
+Total Images: 9
+Average Confidence: 66.76%
+PASS Count: 3
+FAIL Count: 6
+Pass Rate: 33.33%

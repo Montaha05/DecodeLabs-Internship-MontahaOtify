@@ -1,0 +1,10 @@
+filename,confidence,status
+easy01.jpg,88.7,PASS
+easy02.jpg,93.26,PASS
+easy03.jpg,83.0,PASS
+Hard01.jpg,57.93,FAIL
+Hard02.jpg,63.27,FAIL
+Hard03.jpg,60.61,FAIL
+Medium01.jpg,37.98,FAIL
+Medium02.jpg,36.5,FAIL
+Medium03.jpg,79.6,FAIL
